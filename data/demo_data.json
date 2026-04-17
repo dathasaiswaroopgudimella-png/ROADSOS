@@ -1,0 +1,42 @@
+[
+  {
+    "name": "City General Hospital",
+    "lat": 28.6139,
+    "lon": 77.2090,
+    "type": "hospital",
+    "distance_km": 1.2,
+    "phone": "+91-11-23456789"
+  },
+  {
+    "name": "SafeLife Ambulance Station",
+    "lat": 28.6200,
+    "lon": 77.2150,
+    "type": "ambulance",
+    "distance_km": 2.5,
+    "phone": "+91-11-98765432"
+  },
+  {
+    "name": "QuickCare Clinic",
+    "lat": 28.6050,
+    "lon": 77.1980,
+    "type": "clinic",
+    "distance_km": 3.8,
+    "phone": "+91-11-11223344"
+  },
+  {
+    "name": "Metro Trauma Centre",
+    "lat": 28.6300,
+    "lon": 77.2200,
+    "type": "hospital",
+    "distance_km": 4.1,
+    "phone": "+91-11-55667788"
+  },
+  {
+    "name": "RedCross First Aid Post",
+    "lat": 28.6100,
+    "lon": 77.2300,
+    "type": "first_aid",
+    "distance_km": 5.0,
+    "phone": "+91-11-99887766"
+  }
+]
