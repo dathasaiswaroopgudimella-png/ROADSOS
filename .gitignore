@@ -16,5 +16,16 @@ ENV/
 env.bak/
 venv.bak/
 
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+.DS_Store
+
+# Logs
+roadsos.log
+*.log
+
 # Streamlit
 .streamlit/

@@ -1,0 +1,22 @@
+{
+  "project_name": "RoadSoS",
+  "version": "1.1.0-GODMODE",
+  "philosophy": "Never Fail, Always Safe, Deterministic Precision",
+  "engineering_protocols": {
+    "strict_linting": true,
+    "high_accuracy_location": true,
+    "fallback_threshold_ms": 3000,
+    "max_api_retries": 1
+  },
+  "visual_tokens": {
+    "theme": "Obsidian Glass",
+    "primary_accent": "Safety Teal",
+    "panic_accent": "Emergency Red",
+    "blur_intensity": "24px"
+  },
+  "master_prompt_enhancements": {
+    "role": "Lead Systems Architect",
+    "tone": "Imperative, Precision-focused, Safety-critical",
+    "knowledge_cutoff_protection": "Always verify against local spatial data first."
+  }
+}
